@@ -21,8 +21,12 @@ jobs:
           bg_color: "#000000"
           output_path: "./output/pacman-contribution-graph.svg"
 
-      - name: Push to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          branch: output
-          message: "Update Pacman Contribution Graph"
+     - name: Push to output branch
+  uses: EndBug/add-and-commit@v9
+  with:
+    add: "output/*.svg"
+    branch: output
+    message: "Update Pacman Contribution Graph"
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
