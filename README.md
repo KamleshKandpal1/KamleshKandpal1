@@ -45,7 +45,7 @@
 <div align="" width="100%">
   <h2>📊 GitHub Stats</h2>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=KamleshKandpal1&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=12&date_format=M%20j%5B,%20Y%5D&order=3" width="90%" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=KamleshKandpal1&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=12&date_format=M%20j%5B,%20Y%5D&order=3" width="100%" height="250" alt="streak graph" />
 </div>
 
 <br/>
@@ -58,6 +58,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamleshKandpal1/KamleshKandpal1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KamleshKandpal1/KamleshKandpal1/output/pacman-contribution-graph.svg">
 </picture>
-
+    
 </div>
 
