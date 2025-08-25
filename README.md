@@ -1,5 +1,15 @@
 <h1 align="">Hey 👋 What's Up?</h1>
 
+<div>
+  <h2>👨‍💻 About Me</h2>
+  <p>
+    I’m a <strong>React.js Developer</strong> and <strong>MERN Stack Developer</strong> passionate about building
+    clean, scalable, and user-friendly web applications.  
+    Always curious and eager to learn new technologies 🚀.
+  </p>
+</div>
+
+
 <br/>
 
 <div align="">
@@ -48,8 +58,8 @@
   <img src="https://streak-stats.demolab.com?user=KamleshKandpal1&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=12&date_format=M%20j%5B,%20Y%5D&order=3" width="100%" height="250" alt="streak graph" />
 </div>
 
+<!-- 
 <br/>
-
 <div align="">
   <h2>🎮 Fun Contribution Graph</h2>
   <br/>
@@ -57,7 +67,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamleshKandpal1/KamleshKandpal1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamleshKandpal1/KamleshKandpal1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KamleshKandpal1/KamleshKandpal1/output/pacman-contribution-graph.svg">
-</picture>
-    
-</div>
+</picture>   
+</div> -->
 
