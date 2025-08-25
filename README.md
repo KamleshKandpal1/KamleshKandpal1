@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="">Hey 👋 What's Up?</h1>
 
 <br/>
 
@@ -53,20 +53,11 @@
 <div align="">
   <h2>🎮 Fun Contribution Graph</h2>
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamleshKandpal1/KamleshKandpal1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamleshKandpal1/KamleshKandpal1/output/github-contribution-grid-snake.svg" />
-    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/KamleshKandpal1/KamleshKandpal1/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamleshKandpal1/KamleshKandpal1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamleshKandpal1/KamleshKandpal1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KamleshKandpal1/KamleshKandpal1/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+</div>
+
