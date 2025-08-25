@@ -1,0 +1,28 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man graph
+        uses: yoshi389111/github-contribution-graph-action@main
+        with:
+          type: pacman
+          user_name: KamleshKandpal1
+          color: "#FFD700"
+          bg_color: "#000000"
+          output_path: "./output/pacman-contribution-graph.svg"
+
+      - name: Push to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output
+          message: "Update Pacman Contribution Graph"
